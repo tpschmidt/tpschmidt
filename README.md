@@ -5,10 +5,8 @@ Cloud Specialist & Software Engineer
 ------------------------------------
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [tpschmidt.com](http://tpschmidt.com)
-* ✉️  You can contact me at [contact@tpschmidt.com](mailto:contact@tpschmidt.com)
-* 🚀  I'm currently working on [Weddingtastic](http://weddingtastic.com)
-* 🧠  I'm learning Azure
+* ✍️ I'm the author of [AWS Fundamentals.com](https://awsfundamentals.com)
+* ✉️  You can contact me at [contact@tpschmidt.com](mailto:contact@tpschmidt.com)
 
 <a href="https://www.twitter.com/tpschmidt_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tpschmidt_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
