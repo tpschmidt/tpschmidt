@@ -6,7 +6,7 @@ Cloud Specialist & Software Engineer
 
 * 🌍  I'm based in Germany
 * ✍️ I'm the author of [AWS Fundamentals](https://awsfundamentals.com)
-* ✉️  You can contact me at [contact@tpschmidt.com](mailto:contact@tpschmidt.com)
+* ✉️  You can contact me at [hello@tpschmidt.com](mailto:hello@tpschmidt.com)
 
 <a href="https://www.twitter.com/tpschmidt_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tpschmidt_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
