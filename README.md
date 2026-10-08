@@ -1,39 +1,54 @@
-Hi 👋 My name is Tobi
-=====================
+# Tobias Schmidt
 
-Cloud Specialist & Software Engineer
-------------------------------------
+**I help teams ship reliable, cost-efficient AWS infrastructure.**
 
-* 🌍  I'm based in Germany
-* ✍️ I'm the author of [AWS Fundamentals 📙](https://awsfundamentals.com) & [The CloudWatch Book 📕](https://cloudwatchbook.com)
-* ✉️  You can contact me at [hello@tpschmidt.com](mailto:hello@tpschmidt.com)
+Multi-cloud engineer, architect and technical writer from Esslingen, Germany. 20+ years in software
+development, 9 with AWS and 4+ with Azure — mostly on systems that can't afford downtime. I write about
+the parts certifications skip: the decision, the trade-off, and what it costs when it turns out wrong.
 
-<a href="https://www.twitter.com/tpschmidt_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tpschmidt_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+Author of **[AWS Fundamentals](https://awsfundamentals.com/books/aws-fundamentals)** and
+**[The CloudWatch Book](https://cloudwatchbook.com)**.
 
-### Skills
+🌐 [tpschmidt.com](https://tpschmidt.com) · ✉️ [hello@tpschmidt.com](mailto:hello@tpschmidt.com) ·
+📅 **Open to new engagements** — [book a 30-minute call](https://calendly.com/schmidt-tobias/30-minute-meeting)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
+## 📕 Books
 
-### Socials
+**[AWS Fundamentals](https://awsfundamentals.com/books/aws-fundamentals)** (2023) — 350+ pages on the 16 AWS
+services that actually matter and how they fit together. Visual-first, with IaC examples in Terraform, CDK,
+CloudFormation and Serverless.
 
-<p align="left"> <a href="https://www.dev.to/tpschmidt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/tpschmidt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://tpschmidt.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tpschmidt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/tpschmidt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5908014/tpschmidt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tpschmidt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+**[The CloudWatch Book](https://cloudwatchbook.com)** (2024) — the full CloudWatch suite, from logs, metrics
+and traces to anomaly detection and alerting, plus a 6+ hour video course.
+
+## ✍️ Writing & teaching
+
+- **[AWS Fundamentals newsletter](https://awsfundamentals.com)** — one AWS decision, one cost trap, one war
+  story, every Thursday. 13k+ subscribers.
+- **[YouTube](https://www.youtube.com/@aws-fundamentals)** — AWS for engineers who ship.
+- **[Articles](https://tpschmidt.com/articles)** — 40+ posts on AWS architecture, observability and cost.
+- **[Speaking](https://tpschmidt.com/speaking)** — e.g. *Rethinking CloudWatch* at AWS Community Day DACH 2025.
+
+## 🔧 Selected work
+
+- **1inch** — large-scale AWS platform for a leading DeFi protocol: EKS + Karpenter, FluxCD GitOps, MSK and
+  Redis under high-throughput workloads.
+- **STIHL** — distributed identity & access management on Azure for 150k+ registered users.
+- **Porsche** — migrating the PorscheID ecosystem (millions of users) to a new architecture on AWS.
+- **Bosch** — showcase app for the automotive assistance portfolio.
+- **Dashbird** — developer community and technical content for a serverless monitoring platform.
+- Also: LeaseTeq, Meondi, Blocks Cloud, Degensoft.
+
+## 🧰 Toolbox
+
+`AWS` `Azure` `Terraform` `Pulumi` `Kubernetes / EKS` `Serverless` `MSK / Kafka` `Redis` `IAM`
+`Observability` `Cost Optimization` `CI/CD` `TypeScript` `Node.js` `Java` `Kotlin` `Go` `React`
+`Next.js` `PostgreSQL` `DynamoDB`
+
+## 🔗 Elsewhere
+
+[Website](https://tpschmidt.com) · [LinkedIn](https://www.linkedin.com/in/tpschmidt/) ·
+[X](https://twitter.com/tpschmidt_) ·
+[Stack Overflow](https://stackoverflow.com/users/5908014/tpschmidt)
